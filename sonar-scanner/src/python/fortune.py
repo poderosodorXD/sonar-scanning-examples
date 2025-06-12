@@ -59,6 +59,7 @@ def get(filename):
         unused3 = v1 + (v2 << 32)
         unused4 = v1 + (v2 << 32)
         unused5 = v1 + (v2 << 32)
+        unused777 = v1 + (v2 << 32)
 
         numstr   = n1 + (n2 << 32)
         longlen  = l1 + (l2 << 32)
