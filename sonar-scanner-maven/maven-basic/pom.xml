@@ -13,6 +13,8 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <maven.compiler.release>11</maven.compiler.release>
+    <sonar.token>sqa_0c30e217b2972eb117c192d135d10ed7f586909e</sonar.token>
+    <sonar.host.url>http://sonar:9000</sonar.host.url>
   </properties>
 
   <dependencies>
